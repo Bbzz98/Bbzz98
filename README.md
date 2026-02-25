@@ -21,7 +21,7 @@ I love building projects that solve real-world problems, uncover insights from d
 | Languages | Libraries & Frameworks | Analytics & BI | Tools & Platforms |
 |-----------|----------------------|----------------|-----------------|
 | Python, C++ | Flask, Tkinter, OpenCV, Pandas, NumPy, Scikit-Learn | Power BI, SQL, Excel | Git, GitHub, VS Code, Jupyter Notebook |
-| SQL (Intermediate) | Matplotlib, Seaborn | DAX, Power Query | Linux, Command Line |
+| SQL (Intermediate) | Matplotlib, Seaborn | DAX, Power Query | Windows |
 
 ---
 
@@ -43,7 +43,15 @@ Web and GUI-based chatbot built with **Flask** and Python.
 Detect dominant colors in images and extract RGB/HEX values using OpenCV.  
 [View Repo](https://github.com/Bbzz98/Image-Color-Detection)
 
-### 5. Power BI & Analytics Projects
+### 5. Stock Market Prediction
+Predict stock trends using machine learning models on historical data.  
+[View Repo](https://github.com/Bbzz98/Stock-Market-Prediction)
+
+### 6. Autonomous Self-Driving Car
+AI-powered virtual car simulation with pathfinding and autonomous driving logic.  
+[View Repo](https://github.com/Bbzz98/autonomous-self-driving-car)
+
+### 7. Power BI & Analytics Projects
 Dashboards and reports using **Power BI, SQL, and Excel** to visualize insights from real datasets.  
 [View Repo](#) *(link your repo once uploaded)*
 
