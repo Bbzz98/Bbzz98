@@ -39,6 +39,7 @@ I build projects that transform raw data into **actionable insights, dashboards,
 ### 🤖 AI & Productivity Tools
 - ChatGPT (AI-assisted analysis & workflow optimization)
 - Gemini (AI-assisted research & automation)
+- etc..
 
 ### 🛠 Tools
 - Git & GitHub
