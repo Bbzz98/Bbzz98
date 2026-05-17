@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Base Zeid
+# Hi there 👋, I'm Basel Zeid
 
 Welcome to my GitHub! I’m a **Data & Analytics Professional transitioning from Robotics & Oil & Gas into Data Analytics and Machine Learning**.
 
